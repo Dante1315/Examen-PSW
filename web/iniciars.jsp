@@ -1,3 +1,10 @@
+<%-- 
+    Document   : iniciars
+    Created on : 1/05/2021, 06:58:44 PM
+    Author     : PC
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,7 +23,7 @@
                     <ul class="menu"> 
                         <li align="center"class="logo"><img src="./IMG/logo.png"></li>
                         <li ><a href="index.html">Principal</a></li>
-                        <li><a href="iniciars.html"> Registro</a></li>
+                        <li><a href="registro.html"> Registro</a></li>
                     </ul>
                 </nav>
             </header>
