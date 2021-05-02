@@ -54,7 +54,7 @@
         <div id="footer">
             <table class="pie">
                 <tr>
-                    <h4>Integrantes</h4>
+                    <h4>Integrantes:</h4>
                 </tr>
                 <tr></tr>
                 <tr>
